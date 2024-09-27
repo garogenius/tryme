@@ -1,0 +1,32 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-09-27 18:13 CDT
+Nmap scan report for 192.168.138.34
+Host is up (0.0022s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  dnsmasq 2.51
+MAC Address: 4E:57:42:6F:3B:5F (Unknown)
+Aggressive OS guesses: Android 5.0 - 7.0 (Linux 3.4 - 3.10) (97%), Linux 2.6.32 (96%), Linux 3.2 - 4.9 (96%), Linux 2.6.32 - 3.10 (96%), Android 6.0 - 7.1.2 (Linux 3.18 - 4.4.1) (95%), Linux 3.1 (95%), Linux 3.2 (95%), Sony X75CH-series Android TV (Android 5.0) (95%), AXIS 210A or 211 Network Camera (Linux 2.6.17) (95%), Linux 3.8 (94%)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=9/27%OT=53%CT=1%CU=43359%PV=Y%DS=1%DC=D%G=Y%M=4E574
+OS:2%TM=66F73C3E%P=x86_64-pc-linux-gnu)SEQ(SP=105%GCD=1%ISR=10D%TI=Z%CI=Z%I
+OS:I=I%TS=A)SEQ(SP=105%GCD=2%ISR=10D%TI=Z%CI=Z%II=I%TS=A)OPS(O1=M5B4ST11NW8
+OS:%O2=M5B4ST11NW8%O3=M5B4NNT11NW8%O4=M5B4ST11NW8%O5=M5B4ST11NW8%O6=M5B4ST1
+OS:1)WIN(W1=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FFFF)ECN(R=Y%DF=Y%T=40%
+OS:W=FFFF%O=M5B4NNSNW8%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=
+OS:N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=
+OS:0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T
+OS:7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN
+OS:=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.138.217
+Host is up (0.000037s latency).
+All 1000 scanned ports on 192.168.138.217 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 21.65 seconds
